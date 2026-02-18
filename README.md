@@ -20,7 +20,7 @@ I bridge the gap between enterprise .NET systems and modern AI. 5+ years of C# e
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="53%">
       <h3>🔌 dotnet-mcp-server</h3>
       <p><strong>Model Context Protocol server</strong> for AI assistants</p>
       <p>
@@ -40,7 +40,7 @@ I bridge the gap between enterprise .NET systems and modern AI. 5+ years of C# e
         <li>150 unit tests, production-ready</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="47%">
       <h3>🔍 dotnet-rag-api</h3>
       <p><strong>RAG API</strong> for document Q&A with citations</p>
       <p>
