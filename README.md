@@ -27,7 +27,7 @@ I build tools that connect enterprise .NET systems with modern AI. Most AI devel
         <a href="https://github.com/Argha713/dotnet-mcp-server">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
         </a>
-        <a href="https://www.nuget.org/packages/McpServer.Net">
+        <a href="https://www.nuget.org/packages/DotnetMcpServer">
           <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet"/>
         </a>
       </p>
